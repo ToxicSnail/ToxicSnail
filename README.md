@@ -4,7 +4,7 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/ToxicSnail">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,docker,git,github,linux,postgres" alt="Skills and tools"/>
   </a>
 </p>
