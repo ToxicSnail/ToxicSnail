@@ -10,7 +10,7 @@
  {       }   |            |  {       }  
 ~~~~~~~~~~~~ |____________|~~~~~~~~~~~~~~ 
 ```
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=gray&right_color=white&style=flat&text_color=blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=gray&right_color=blue&style=flat&text_color=white)
 
 
 ### Когда-нибудь я додумаю концепцию с котом...
