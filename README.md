@@ -1,5 +1,5 @@
 #
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail)
 
 ---
 
