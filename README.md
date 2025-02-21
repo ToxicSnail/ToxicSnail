@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Gorky Kirill! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=gray&right_color=blue&style=flat&text_color=white"  />
 
----
-
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
@@ -11,6 +9,7 @@
   </a>
 </p>
 
+---
 ```
  /\     /\     /\     /\     /\     /\ 
 {  `---'  }   {  `---'  }   {  `---'  }  
