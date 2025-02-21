@@ -1,11 +1,7 @@
-#
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=blue&right_color=green&style=flat)
-
 ---
-
 ```
- /\     /\     /\     /\     /\     /\
+ /\     /\     /\     /\     /\     /\ 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=blue&right_color=green&style=flat)
 {  `---'  }   {  `---'  }   {  `---'  }  
 {  O   O  }   {  O   O  }   {  O   O  }  
 ~~>  V  <~~   ~~>  V <~~    ~~>  V  <~~  
