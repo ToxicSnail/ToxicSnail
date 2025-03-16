@@ -1,4 +1,10 @@
 <h1 align="center">Hi, I'm Gorky Kirill! 👋 </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2300&pause=&center=true&vCenter=true&width=435&lines=Hi,%2C+I'm+Gorky+Kirill...;Nice+to+meet+you+%F0%9F%91%8B" alt="Typing SVG">
+  </a>
+</h1>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=gray&right_color=blue&style=flat&text_color=white"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
