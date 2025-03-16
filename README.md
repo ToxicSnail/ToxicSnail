@@ -42,7 +42,7 @@
   <a>
     <img 
       width="49%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicSnail&theme=react&show_icons=true&hide_border=false&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicSnail&theme=react&show_icons=true&hide_border=false&card_width=420&layout=compact" 
       alt="most-user-languages" 
     />
   </a>
@@ -52,4 +52,4 @@
 
 <img 
   class="graph" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicSnail&bg_color=0a0e12&color=cae1f4&line=61dafb&point=f34b7d&area=true&hide_border=true" width="100%"/>
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicSnail&bg_color=0a0e12&color=cae1f4&line=61dafb&point=3178c6&area=true&hide_border=true" width="100%"/>
