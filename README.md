@@ -28,3 +28,22 @@
 ```
 
                                   ### Когда-нибудь я додумаю концепцию с котом...
+
+<h2 align="center">⚡ Stats and Activity ⚡</h2>
+
+<p align="center">
+  <div align="center" style="display: flex; justify-content: space-between;">
+    <a>
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ToxicSnail&theme=tokyonight&hide_border=false" alt="total-current-longest-streak-contributions" />
+    </a>
+    <a>
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicSnail&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="most-user-languages" />
+    </a>
+  </div>
+  
+  <br>
+  
+  <img class="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicSnail&bg_color=1a1b27&color=36baac&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
+</p>
+
+<hr>
