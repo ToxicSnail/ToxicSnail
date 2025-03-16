@@ -52,12 +52,4 @@
 
 <img 
   class="graph" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicSnail
-  &bg_color=0a0e12
-  &color=cae1f4
-  &line=61dafb
-  &point=f34b7d
-  &area=true
-  &hide_border=true" 
-  width="100%"
-/>
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicSnail&bg_color=0a0e12&color=cae1f4&line=61dafb&point=f34b7d&area=true&hide_border=true" width="100%"/>
