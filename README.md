@@ -31,19 +31,33 @@
 
 <h2 align="center">⚡ Stats and Activity ⚡</h2>
 
-<p align="center">
-  <div align="center" style="display: flex; justify-content: space-between;">
-    <a>
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ToxicSnail&theme=react&hide_border=false" alt="total-current-longest-streak-contributions" />
-    </a>
-    <a>
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicSnail&theme=react&show_icons=true&hide_border=false&layout=compact" alt="most-user-languages" />
-    </a>
-  </div>
-  
-  <br>
-  
-  <img class="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicSnail&bg_color=0a0e12&color=cae1f4&line=61dafb&point=f34b7d&area=true&hide_border=true" width="100%"/>
-</p>
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a>
+    <img 
+      width="49%" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ToxicSnail&theme=react&hide_border=false" 
+      alt="total-current-longest-streak-contributions" 
+    />
+  </a>
+  <a>
+    <img 
+      width="49%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicSnail&theme=react&show_icons=true&hide_border=false&layout=compact" 
+      alt="most-user-languages" 
+    />
+  </a>
+</div>
 
-<hr>
+<br>
+
+<img 
+  class="graph" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicSnail
+  &bg_color=0a0e12
+  &color=cae1f4
+  &line=61dafb
+  &point=f34b7d
+  &area=true
+  &hide_border=true" 
+  width="100%"
+/>
