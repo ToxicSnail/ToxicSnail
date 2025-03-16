@@ -29,7 +29,7 @@
 
                                   ### Когда-нибудь я додумаю концепцию с котом...
 
-<h2 align="center">⚡ Stats and Activity ⚡</h2>
+<h2 align="center">My Coding Stats & Recent Activity</h2>
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <a>
