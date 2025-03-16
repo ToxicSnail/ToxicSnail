@@ -34,7 +34,7 @@
 <p align="center">
   <div align="center" style="display: flex; justify-content: space-between;">
     <a>
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ToxicSnail&theme=react&card_height=232&hide_border=false" alt="total-current-longest-streak-contributions" />
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ToxicSnail&theme=react&hide_border=false" alt="total-current-longest-streak-contributions" />
     </a>
     <a>
       <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicSnail&theme=react&show_icons=true&hide_border=false&layout=compact" alt="most-user-languages" />
