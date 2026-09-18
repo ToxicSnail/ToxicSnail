@@ -42,7 +42,6 @@
   &nbsp;·&nbsp;
   <a href="#">test</a>
   <br><br>
-  <sub>CVE triage · test data generation · security automation</sub>
 </p>
 
 ```text
