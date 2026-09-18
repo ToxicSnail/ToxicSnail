@@ -27,8 +27,5 @@
                                          ~~~~~~~~~~~~ |___________|~~~~~~~~~~~~~ 
 ```
 
-<br>
 
-<img 
-  class="graph" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicSnail&bg_color=0a0e12&color=cae1f4&line=61dafb&point=3178c6&area=true&hide_border=true" width="100%"/>
+![68747470733a2f2f632e74656e6f722e636f6d2f43775a446258374476523841414141642f706978656c2d73616b7572612e676966](https://github.com/user-attachments/assets/b17e3907-9e7c-4e5b-b289-ed0ed6d3fc06)
