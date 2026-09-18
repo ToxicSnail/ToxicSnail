@@ -31,7 +31,6 @@
   ·
   <code>CTF</code>
   <br><br>
-  <sub>application security · static analysis · vulnerability research</sub>
 </p>
 
 <p align="center">
@@ -68,7 +67,7 @@
 
 <p align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=2b2f36&right_color=FF7EB6&style=flat&text_color=white"
+    src="https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=1b1f2a&right_color=FF7EB6&style=flat&text_color=ffffff"
     alt="Visitors"
   />
 </p>
