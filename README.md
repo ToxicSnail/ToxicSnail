@@ -66,7 +66,7 @@
 
 <p align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=1b1f2a&right_color=FF7EB6&style=flat&text_color=ffffff"
+    src="https://visitor-badge.laobi.icu/badge?page_id=ToxicSnail.ToxicSnail&left_color=2b2f36&right_color=CB6CE6&style=flat&text_color=ffffff"
     alt="Visitors"
   />
 </p>
