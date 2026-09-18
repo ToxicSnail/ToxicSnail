@@ -9,10 +9,10 @@
 
 ---
 
-<h3 align="center">🌸 Languages and Tools</h3>
-
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D">
+  <b>🌸 Languages and Tools</b>
+  <br><br>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img
       src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,docker,git,linux,postgres"
       alt="Skills and Tools"
@@ -20,11 +20,9 @@
   </a>
 </p>
 
-<br>
-
-<h3 align="center">🌸 Current Focus</h3>
-
 <p align="center">
+  <b>🌸 Current Focus</b>
+  <br><br>
   <code>AppSec</code>
   ·
   <code>SAST</code>
@@ -34,46 +32,33 @@
   <code>CodeQL</code>
   ·
   <code>Semgrep</code>
-</p>
-
-<p align="center">
+  <br><br>
   <sub>application security · static analysis · vulnerability research</sub>
 </p>
 
-<br>
-
-<h3 align="center">🌸 Projects</h3>
-
 <p align="center">
-  <a href="https://github.com/ToxicSnail/appsec-triage-bot"><b>test</b></a>
+  <b>🌸 Projects</b>
+  <br><br>
+  <a href="#">test</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/ToxicSnail/"><b>test</b></a>
+  <a href="#">test</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/ToxicSnail/"><b>test</b></a>
+  <a href="#">test</a>
+  <br><br>
+  <sub>CVE triage · test data generation · security automation</sub>
 </p>
 
-<p align="center">
-  <sub>
-    CVE triage · test data generation · security automation
-  </sub>
-</p>
-
-<br>
-
+```text
+                              /\     /\     /\
+                             {  `---'  }   {  `---'  }   {  `---'  }
+                             {  O   O  }   {  O   O  }   {  O   O  }
+                             ~~>  V  <~~   ~~>  V  <~~   ~~>  V  <~~
+                              \  ~~~  /    ┌───────────┐   \  ~~~  /
+                               `-----'     │  LAPTOP   │    `-----'
+                               /     \     │___________│    /     \
+                              {       }    │           │   {       }
+                             ~~~~~~~~~~~~  │___________│  ~~~~~~~~~~~~
 ```
-                                          /\     /\     /\     /\    /\     /\ 
-                                         {  `---'  }   {  `---'  }  {  `---'  }  
-                                         {  O   O  }   {  O   O  }  {  O   O  }  
-                                         ~~>  V  <~~   ~~>  V <~~   ~~>  V  <~~  
-                                          \  ~~~  /   ┌───────────┐  \  ~~~  /  
-                                           `-----'    |  LAP_TOP  |   `-----'  
-                                           /     \    |___________|   /     \  
-                                          {       }   |           |  {       }  
-                                         ~~~~~~~~~~~~ |___________|~~~~~~~~~~~~~
-
-```
-
-<br>
 
 <p align="center">
   <img
@@ -82,8 +67,6 @@
     width="640"
   />
 </p>
-
-<br>
 
 <p align="center">
   <img
