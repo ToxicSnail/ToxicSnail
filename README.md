@@ -25,13 +25,11 @@
   <br><br>
   <code>AppSec</code>
   ·
-  <code>SAST</code>
+  <code>AI</code>
   ·
   <code>SCA</code>
   ·
-  <code>CodeQL</code>
-  ·
-  <code>Semgrep</code>
+  <code>CTF</code>
   <br><br>
   <sub>application security · static analysis · vulnerability research</sub>
 </p>
@@ -49,10 +47,10 @@
 </p>
 
 ```text
-                              /\     /\     /\
-                             {  `---'  }   {  `---'  }   {  `---'  }
-                             {  O   O  }   {  O   O  }   {  O   O  }
-                             ~~>  V  <~~   ~~>  V  <~~   ~~>  V  <~~
+                              /\     /\     /\     /\      /\     /\
+                             {  `---'  }   {  `---'  }    {  `---'  }
+                             {  O   O  }   {  O   O  }    {  O   O  }
+                             ~~>  V  <~~   ~~>  V  <~~    ~~>  V  <~~
                               \  ~~~  /    ┌───────────┐   \  ~~~  /
                                `-----'     │  LAPTOP   │    `-----'
                                /     \     │___________│    /     \
