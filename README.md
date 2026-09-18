@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="center">⌁ Current Focus</h3>
+<h3 align="center">🌸 Current Focus</h3>
 
 <p align="center">
   <code>AppSec</code>
@@ -42,7 +42,7 @@
 
 <br>
 
-<h3 align="center">⌁ Projects</h3>
+<h3 align="center">🌸 Projects</h3>
 
 <p align="center">
   <a href="https://github.com/ToxicSnail/appsec-triage-bot"><b>test</b></a>
